@@ -1,6 +1,6 @@
 ### Who Am I 👋
 
-<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jgk09049">
+<!-- <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jgk09049"> -->
 
 - 🌱 Currently learning : `Machine Learning`, `Deep Learning`, `Data Analysis`, `Medical Data`
 - 🚅 Hometown : Seoul in Korea
