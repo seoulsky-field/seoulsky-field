@@ -1,7 +1,6 @@
 ### Who Am I 👋
 <!-- <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jgk09049"> -->
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://blog.naver.com/jgk09049/)](https://blog.naver.com/jgk09049/)
-[![E-mail Badge](https://img.shields.io/badge/email-03C75A?style=flat-square&logo=naver&logoColor=white&link=mailto:jgk09049@naver.com)](mailto:jgk09049@naver.com)
 - 🚅 Hometown : Seoul (Korea)
 - 🌱 Currently learning : `Machine Learning`, `Deep Learning`, `Data Analysis`, `Medical Data`
 
