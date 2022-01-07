@@ -24,6 +24,7 @@
 | Date | Contents 	| Organizaion |
 |-----	|:----------:	|:-----------:|
 | `2022.01.` ~ `2022.06.` 	| [NAVER boostcamp AI Tech (3rd)](https://boostcamp.connect.or.kr/program_ai.html) | NAVER Connect Foundation  |
+| `2022.01.` ~ `2022.02.` 	| [NAVER boostcourse Coaching Study AI Basic (1st, leader)](https://post.naver.com/viewer/postView.naver?volumeNo=32888848&memberNo=34635212) | NAVER Connect Foundation  |
 | `2021.03.` ~  	| Department of Software  | Dankook University |  
 
 
