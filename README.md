@@ -7,7 +7,7 @@
 <br>
 
 <!-- Tech Stack -->
-<h3 align="center">🛠 Tech Stack 🛠</h3>
+<h3 align="center">🛠 Language 🛠</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/></a> &nbsp
@@ -18,6 +18,10 @@
   <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white"/></a> &nbsp
   
 <br>
+
+<h3 align="center">🛠 ML / DL 🛠</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/></a>&nbsp
 
 ### Educations
 
