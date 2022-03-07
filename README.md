@@ -22,6 +22,14 @@
 <h3 align="center">🛠 ML / DL 🛠</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/></a>&nbsp
+  
+  
+### Project
+| Type | Date  | Organizaion |
+|-----	|:----------:	|:-----------:|
+| Mask Classification (Image Classification) | `2022.02.21.` ~ `2022.03.03.` 	| [NAVER boostcamp AI Tech (3rd)](https://boostcamp.connect.or.kr/program_ai.html) | NAVER Connect Foundation  |
+  
+  
 
 ### Educations
 
