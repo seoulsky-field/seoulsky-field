@@ -27,7 +27,8 @@
 ### Project
 | Type | Date  | Organizaion |
 |-----	|:----------:	|:-----------:|
-| OCR (Data Annotation) | `2022.04.11.` ~ `2022.04.21.` 	| [NAVER boostcamp AI Tech (3rd)](https://boostcamp.connect.or.kr/program_ai.html) | NAVER Connect Foundation  |
+| Recycling Object Classification (Semantic Segmentation) | `2022.04.25.` ~ `2022.05.12.` 	| [NAVER boostcamp AI Tech (3rd)](https://boostcamp.connect.or.kr/program_ai.html) | NAVER Connect Foundation  |
+| OCR (Data Annotation) | `2022.04.14.` ~ `2022.04.21.` 	| [NAVER boostcamp AI Tech (3rd)](https://boostcamp.connect.or.kr/program_ai.html) | NAVER Connect Foundation  |
 | Recycling Object Classification (Object Detection) | `2022.03.21.` ~ `2022.04.07.` 	| [NAVER boostcamp AI Tech (3rd)](https://boostcamp.connect.or.kr/program_ai.html) | NAVER Connect Foundation  |
 | Mask Classification (Image Classification) | `2022.02.21.` ~ `2022.03.03.` 	| [NAVER boostcamp AI Tech (3rd)](https://boostcamp.connect.or.kr/program_ai.html) | NAVER Connect Foundation  |
 
