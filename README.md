@@ -22,13 +22,24 @@
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/></a> &nbsp
   <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white"/></a> &nbsp
   
+
+### Research Experiences
+
+| Organizaion | Date 	| Role |
+|-----	|:----------:	|:-----------:|
+| SNUH (Seoul National University Hospital) iRAIL | `2022.06.` ~ `2022.08.`  | Research Intern  |
+
+
+
+  
 ### Project
 | Type | Date  | Organizaion |
 |-----	|:----------:	|:-----------:|
-| Recycling Object Classification (Semantic Segmentation) | `2022.04.25.` ~ `2022.05.12.` 	| [NAVER boostcamp AI Tech (3rd)](https://boostcamp.connect.or.kr/program_ai.html) | NAVER Connect Foundation  |
-| OCR (Data Annotation) | `2022.04.14.` ~ `2022.04.21.` 	| [NAVER boostcamp AI Tech (3rd)](https://boostcamp.connect.or.kr/program_ai.html) | NAVER Connect Foundation  |
-| Recycling Object Classification (Object Detection) | `2022.03.21.` ~ `2022.04.07.` 	| [NAVER boostcamp AI Tech (3rd)](https://boostcamp.connect.or.kr/program_ai.html) | NAVER Connect Foundation  |
-| Mask Classification (Image Classification) | `2022.02.21.` ~ `2022.03.03.` 	| [NAVER boostcamp AI Tech (3rd)](https://boostcamp.connect.or.kr/program_ai.html) | NAVER Connect Foundation  |
+| 너의 알약이 보여 | `2022.04.07.` ~ `2022.06.10.` 	| [NAVER boostcamp AI Tech (3rd)](https://boostcamp.connect.or.kr/program_ai.html) 
+| Recycling Object Classification (Semantic Segmentation) | `2022.04.25.` ~ `2022.05.12.` 	| [NAVER boostcamp AI Tech (3rd)](https://boostcamp.connect.or.kr/program_ai.html) 
+| OCR (Data Annotation) | `2022.04.14.` ~ `2022.04.21.` 	| [NAVER boostcamp AI Tech (3rd)](https://boostcamp.connect.or.kr/program_ai.html) 
+| Recycling Object Classification (Object Detection) | `2022.03.21.` ~ `2022.04.07.` 	| [NAVER boostcamp AI Tech (3rd)](https://boostcamp.connect.or.kr/program_ai.html) 
+| Mask Classification (Image Classification) | `2022.02.21.` ~ `2022.03.03.` 	| [NAVER boostcamp AI Tech (3rd)](https://boostcamp.connect.or.kr/program_ai.html) 
 
   
   
