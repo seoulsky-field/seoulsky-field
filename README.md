@@ -35,6 +35,7 @@
 ### Project
 | Type | Date  | Organizaion |
 |-----	|:----------:	|:-----------:|
+| - | `2022.07.05.` ~ `2022.08.31.` 	| SNUH (Seoul National University Hospital) iRAIL
 | 너의 알약이 보여 | `2022.04.07.` ~ `2022.06.10.` 	| [NAVER boostcamp AI Tech (3rd)](https://boostcamp.connect.or.kr/program_ai.html) 
 | Recycling Object Classification (Semantic Segmentation) | `2022.04.25.` ~ `2022.05.12.` 	| [NAVER boostcamp AI Tech (3rd)](https://boostcamp.connect.or.kr/program_ai.html) 
 | OCR (Data Annotation) | `2022.04.14.` ~ `2022.04.21.` 	| [NAVER boostcamp AI Tech (3rd)](https://boostcamp.connect.or.kr/program_ai.html) 
