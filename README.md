@@ -27,12 +27,14 @@
 
 | Organizaion | Date 	| Role |
 |-----	|:----------:	|:-----------:|
-| SNUH (Seoul National University Hospital) iRAIL | `2022.06.` ~ `2022.08.`  | Research Intern  |
+| SNUH iRAIL | `2022.09.` ~   | Researcher  |
+| SNUH iRAIL | `2022.06.` ~ `2022.08.`  | Research Intern  |
 
 
 
   
 ### Project
+
 | Type | Date  | Organizaion |
 |-----	|:----------:	|:-----------:|
 | 9월 이후 공개 가능 | `2022.07.05.` ~ `2022.08.31.` 	| SNUH (Seoul National University Hospital) iRAIL
@@ -43,9 +45,8 @@
 | Mask Classification | `2022.02.21.` ~ `2022.03.03.` 	| [NAVER boostcamp AI Tech (3rd)](https://boostcamp.connect.or.kr/program_ai.html) 
 
   
-  
 
-### Educations
+### Educations (with Extracurricuar)
 
 | Date | Contents 	| Organizaion |
 |-----	|:----------:	|:-----------:|
