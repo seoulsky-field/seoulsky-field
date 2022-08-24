@@ -27,17 +27,15 @@
 
 | Organizaion | Date 	| Role |
 |-----	|:----------:	|:-----------:|
-| SNUH iRAIL | `2022.09.` ~   | Researcher  |
-| SNUH iRAIL | `2022.06.` ~ `2022.08.`  | Research Intern  |
-
-
-
+| SNUH* iRAIL | `2022.06.` ~ `2022.08.`  | Research Intern  |
+  
+\* Seoul National University Hospital
   
 ### Project
 
 | Type | Date  | Organizaion |
 |-----	|:----------:	|:-----------:|
-| TBU | `2022.07.05.` ~ `2022.08.31.` 	| SNUH (Seoul National University Hospital) iRAIL
+| [Copy-paste Augmentation for Nodule Detection](https://github.com/seoulsky-field/copy-paste-nodule-detection) (TBU) | `2022.07.05.` ~ `2022.08.31.` 	| SNUH* iRAIL
 | [Pill Classification](https://github.com/seoulsky-field/final-project-level3-cv-16) | `2022.04.07.` ~ `2022.06.10.` 	| [NAVER boostcamp AI Tech (3rd)](https://boostcamp.connect.or.kr/program_ai.html) 
 | [Recycling Object Segmentation](https://github.com/seoulsky-field/level2-semantic-segmentation-level2-cv-16) | `2022.04.25.` ~ `2022.05.12.` 	| [NAVER boostcamp AI Tech (3rd)](https://boostcamp.connect.or.kr/program_ai.html) 
 | [OCR Data Annotation](https://github.com/seoulsky-field/level2-data-annotation_cv-level2-cv-16) | `2022.04.14.` ~ `2022.04.21.` 	| [NAVER boostcamp AI Tech (3rd)](https://boostcamp.connect.or.kr/program_ai.html) 
@@ -45,6 +43,7 @@
 | [Mask Classification](https://github.com/seoulsky-field/level1-image-classification-level1-cv-12) | `2022.02.21.` ~ `2022.03.03.` 	| [NAVER boostcamp AI Tech (3rd)](https://boostcamp.connect.or.kr/program_ai.html) 
 
   
+
 
 ### Educations (with Extracurricuar)
 
