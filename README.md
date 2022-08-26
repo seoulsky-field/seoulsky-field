@@ -1,18 +1,18 @@
-### Who Am I 👋
+<!-- ### Who Am I 👋
 <!-- <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jgk09049"> -->
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://blog.naver.com/jgk09049/)](https://blog.naver.com/jgk09049/)
 - 🚅 Hometown : Seoul (Korea)
-- 🌱 Currently learning : `Deep Learning`, `Computer Vision`, `Medical Data`, `Medical AI`
+- 🌱 Currently learning : `Deep Learning`, `Computer Vision`, `Medical Data`, `Medical AI` -->
 
 <br>
 
 <!-- Tech Stack -->
-<h3 align="center">🛠 Tech Stack 🛠</h3>
-<p align="center">
+### Tech Stack 🛠
+<p align="left">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/></a> &nbsp
+<!--   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/></a> &nbsp -->
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/></a> &nbsp
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/></a> &nbsp
+<!--   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/></a> &nbsp -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/></a> &nbsp
   <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white"/></a> &nbsp
   <br>
