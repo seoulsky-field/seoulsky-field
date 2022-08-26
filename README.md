@@ -1,10 +1,8 @@
-<!-- ### Who Am I 👋
+<!-- ### Who Am I 👋 -->
 <!-- <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jgk09049"> -->
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://blog.naver.com/jgk09049/)](https://blog.naver.com/jgk09049/)
-- 🚅 Hometown : Seoul (Korea)
-- 🌱 Currently learning : `Deep Learning`, `Computer Vision`, `Medical Data`, `Medical AI` -->
-
-<br>
+<!-- [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://blog.naver.com/jgk09049/)](https://blog.naver.com/jgk09049/) -->
+<!-- - 🚅 Hometown : Seoul (Korea) -->
+<!-- - 🌱 Currently learning : `Deep Learning`, `Computer Vision`, `Medical Data`, `Medical AI` -->
 
 <!-- Tech Stack -->
 ### Tech Stack 🛠
@@ -22,6 +20,7 @@
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/></a> &nbsp
   <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white"/></a> &nbsp
   
+<br>  
 
 ### Research Experiences
 
