@@ -20,6 +20,7 @@
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/></a> &nbsp
   <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white"/></a> &nbsp
   
+  
 <br>  
 
 ### Research Experiences
@@ -28,12 +29,20 @@
 |:-----:	|:----------:	|:-----------:|
 | SNUH<sup>1</sup> iRAIL | `2022.09.` ~   | Researcher  |
 | SNUH<sup>1</sup> iRAIL | `2022.06.` ~ `2022.08.`  | Research Intern  |
+
+  <br>
+<!--
+### Paper
+| Title | Date | Academy | Remarks |
+|:-----:	|:----------:	|:-----------: |:-----:|
+| Copy-paste Augmentation for Nodule Detection | `2022.09.`	| [NeurIPS (ML4H)](https://ml4health.github.io/2022/call_for_participation.html) | Small Paper |
   
-  
-  
+  <br>
+   -->  
+   
 ### Project
 
-| Type | Date  | Organizaion |
+| Title | Date  | Organizaion |
 |:-----:	|:----------:	|:-----------:|
 | (TBU) | `2022.09.` ~  	| SNUH<sup>1</sup> iRAIL
 | [Copy-paste Augmentation for Nodule Detection](https://github.com/seoulsky-field/copy-paste-nodule-detection) (TBU) | `2022.07.05.` ~ `2022.08.31.` 	| SNUH<sup>1</sup> iRAIL
@@ -45,7 +54,7 @@
 
 <sup>1</sup> Seoul National University Hospital
 
-
+  <br>
   
 
 ### Educations (with Extracurricuar)
