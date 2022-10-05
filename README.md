@@ -30,15 +30,7 @@
 | SNUH<sup>1</sup> iRAIL | `2022.09.` ~   | Researcher  |
 | SNUH<sup>1</sup> iRAIL | `2022.06.` ~ `2022.08.`  | Research Intern  |
 
-  <br>
-<!--
-### Paper
-| Title | Date | Academy | Remarks |
-|:-----:	|:----------:	|:-----------: |:-----:|
-| Copy-paste Augmentation for Nodule Detection | `2022.09.`	| [NeurIPS (ML4H)](https://ml4health.github.io/2022/call_for_participation.html) | Small Paper |
-  
-  <br>
-   -->  
+
    
 ### Project
 
@@ -56,6 +48,13 @@
 
   <br>
   
+### Competitions
+
+| Date | Competition 	| Remark |
+|:-----:	|:----------:	|:-----------:|
+| `2022.10.` (TBU) | [제 1회 k-ium 의료인공지능경진대회](https://www.k-ium.com/home/index) |   |
+
+  <br>
 
 ### Educations (with Extracurricuar)
 
@@ -65,6 +64,7 @@
 | `2022.01.` ~ `2022.02.` 	| [NAVER boostcourse Coaching Study AI Basic (1st, leader)](https://post.naver.com/viewer/postView.naver?volumeNo=32888848&memberNo=34635212) | NAVER Connect Foundation  |
 | `2021.03.` ~  	| Department of Software  | Dankook University |  
 
+  
 
 
 <!-- <img align='center' src="https://github-readme-stats.vercel.app/api?username=seoulsky-field" height="165"> -->
