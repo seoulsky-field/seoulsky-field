@@ -27,8 +27,8 @@
 
 | Organizaion | Date 	| Role |
 |:-----:	|:----------:	|:-----------:|
-<-- | SNUH<sup>1</sup> iRAIL | `2022.09.` ~   | Researcher  | -->
-| SNUH<sup>1</sup> iRAIL | `2022.06.` ~   | Research Intern  |
+| SNUH<sup>1</sup> iRAIL | `2022.09.` ~   | Researcher  |
+| SNUH<sup>1</sup> iRAIL | `2022.06.` ~   `2022.08.` | Research Intern  |
 
 
    
