@@ -51,7 +51,7 @@
 
 | Date | Competition 	| Remark |
 |:-----:	|:----------:	|:-----------:|
-| `2022.10.` (TBU) | [제 1회 k-ium 의료인공지능경진대회](https://www.k-ium.com/home/index) |   |
+| `2022.10.` | [제 1회 k-ium 의료인공지능경진대회](https://www.k-ium.com/home/index) | (TBD)  |
 
   <br>
 
