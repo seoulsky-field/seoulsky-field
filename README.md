@@ -51,6 +51,7 @@
 
 | Date | Competition 	| Remark |
 |:-----:	|:----------:	|:-----------:|
+| `2022.11.` | [Medical Synthetic Data AI Challenge](https://user-images.githubusercontent.com/83350060/200177302-e1028f6c-2d83-4b7e-9b8c-d077a4ca373a.jpeg) [[X-Ray]](https://urbandatathon.com/hackathon/scheduleDetail/1000)[[CT]](https://urbandatathon.com/hackathon/scheduleDetail/1001) | (TBD)  |
 | `2022.10.` | [제 1회 k-ium 의료인공지능경진대회](https://www.k-ium.com/home/index) | (TBD)  |
 
   <br>
