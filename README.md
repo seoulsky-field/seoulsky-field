@@ -67,6 +67,13 @@
 | `2021.03.` ~  	| Department of Software  | Dankook University |  
 
   
+  
+### ETC   
+
+| Date | Contents 	| Organizaion |
+|:-----:	|:----------:	|:-----------:|
+| `2022.12.01.` 	| (TBU) | (TBU)  |
+| `2022.11.08.` 	| 부캠에서 살아남기 for 4기 CV 연사 | [NAVER boostcamp AI Tech (4rd)](https://boostcamp.connect.or.kr/program_ai.html)  |
 
 
 <!-- <img align='center' src="https://github-readme-stats.vercel.app/api?username=seoulsky-field" height="165"> -->
