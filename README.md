@@ -52,8 +52,8 @@
 
 | Date | Competition 	| Team Name | Remark |
 |:-----:	|:----------:	|:-----------: |:-----------:|
-| `2022.11.` | [유방암의 임파선 전이 예측 AI경진대회](https://dacon.io/competitions/official/236011/overview/description) | MEDIAI_INTERNS | (TBD)  |
-| `2022.11.` | [MAIC Sleep AI Challenge 2022 ver. 3](https://maic.or.kr/competitions/20/infomation) | MEDIAI_INTERNS | (TBD)  |
+| `2022.11.` | [유방암의 임파선 전이 예측 AI경진대회](https://dacon.io/competitions/official/236011/overview/description) | 팀 CXR | (TBD)  |
+| `2022.11.` | [MAIC Sleep AI Challenge 2022 ver. 3](https://maic.or.kr/competitions/20/infomation) | MEDIAI_INTERNS | 최종 3위, 서울대학교병원장상  |
 | `2022.11.` | [Medical Synthetic Data AI Challenge](https://github.com/seoulsky-field/Medical_Synthetic_Data_AI_Challenge) [[X-Ray]](https://urbandatathon.com/hackathon/scheduleDetail/1000)[[CT]](https://urbandatathon.com/hackathon/scheduleDetail/1001) | MEDIAI_INTERNS | 최우수상(2위)  |
 | `2022.10.` | [제 1회 k-ium 의료인공지능경진대회](https://www.k-ium.com/home/index) | Team 양건희 | - (성실참여상) |
 
@@ -73,7 +73,7 @@
 
 | Date | Contents 	| Organizaion |
 |:-----:	|:----------:	|:-----------:|
-| `2022.12.01.` 	| (TBU) | (TBU)  |
+| `2022.12.01.` 	| 부스트캠프 AI Tech 5기 온라인 설명회 연사 | NAVER CONNECT  |
 | `2022.11.08.` 	| 부캠에서 살아남기 for 4기 CV 연사 | [NAVER boostcamp AI Tech (4rd)](https://boostcamp.connect.or.kr/program_ai.html)  |
 
 
