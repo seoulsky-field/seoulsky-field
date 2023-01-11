@@ -27,7 +27,7 @@
 
 | Organizaion | Date 	| Role |
 |:-----:	|:----------:	|:-----------:|
-| SNUH<sup>1</sup> iRAIL | `2022.06.` ~   | Research Intern  |
+| Department of Radiology, Seoul National University Hospital | `2022.06.` ~   | Research Intern  |
 
 
    
