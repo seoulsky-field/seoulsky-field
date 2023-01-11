@@ -36,13 +36,13 @@
 | Title | Date  | Organization |
 |:-----:	|:----------:	|:-----------:|
 | (TBU) | `2022.12.26.`  ~  	| SNUH<sup>1</sup> iRAIL
-| (TBU) | `2022.09.14.`  ~  	| SNUH<sup>1</sup> iRAIL
+| CXRAIL - The Benchmark of Chest X-ray | `2022.09.14.`  ~  	| SNUH<sup>1</sup> iRAIL
 | [Copy-paste Augmentation for Nodule Detection](https://github.com/seoulsky-field/copy-paste-nodule-detection) | `2022.07.05.` ~ `2022.08.31.` 	| SNUH<sup>1</sup> iRAIL
-| [Pill Classification](https://github.com/seoulsky-field/final-project-level3-cv-16) | `2022.04.07.` ~ `2022.06.10.` 	| [NAVER boostcamp AI Tech (3rd)](https://boostcamp.connect.or.kr/program_ai.html) 
-| [Recycling Object Segmentation](https://github.com/seoulsky-field/level2-semantic-segmentation-level2-cv-16) | `2022.04.25.` ~ `2022.05.12.` 	| [NAVER boostcamp AI Tech (3rd)](https://boostcamp.connect.or.kr/program_ai.html) 
-| [OCR Data Annotation](https://github.com/seoulsky-field/level2-data-annotation_cv-level2-cv-16) | `2022.04.14.` ~ `2022.04.21.` 	| [NAVER boostcamp AI Tech (3rd)](https://boostcamp.connect.or.kr/program_ai.html) 
-| [Recycling Object Detection](https://github.com/seoulsky-field/level2-object-detection-level2-cv-16) | `2022.03.21.` ~ `2022.04.07.` 	| [NAVER boostcamp AI Tech (3rd)](https://boostcamp.connect.or.kr/program_ai.html) 
-| [Mask Classification](https://github.com/seoulsky-field/level1-image-classification-level1-cv-12) | `2022.02.21.` ~ `2022.03.03.` 	| [NAVER boostcamp AI Tech (3rd)](https://boostcamp.connect.or.kr/program_ai.html) 
+| [Reverse Pill Image Search](https://github.com/seoulsky-field/final-project-level3-cv-16) | `2022.04.07.` ~ `2022.06.10.` 	| [NAVER boostcamp AI Tech (3rd)](https://boostcamp.connect.or.kr/program_ai.html) 
+| [Semantic Segmentation for Sorting Recycling Garbage](https://github.com/seoulsky-field/level2-semantic-segmentation-level2-cv-16) | `2022.04.25.` ~ `2022.05.12.` 	| [NAVER boostcamp AI Tech (3rd)](https://boostcamp.connect.or.kr/program_ai.html) 
+| [Data Annotation for OCR](https://github.com/seoulsky-field/level2-data-annotation_cv-level2-cv-16) | `2022.04.14.` ~ `2022.04.21.` 	| [NAVER boostcamp AI Tech (3rd)](https://boostcamp.connect.or.kr/program_ai.html) 
+| [Object Detection for Sorting Recycling Garbage](https://github.com/seoulsky-field/level2-object-detection-level2-cv-16) | `2022.03.21.` ~ `2022.04.07.` 	| [NAVER boostcamp AI Tech (3rd)](https://boostcamp.connect.or.kr/program_ai.html) 
+| [Image Classfication of Mask Wearing Status](https://github.com/seoulsky-field/level1-image-classification-level1-cv-12) | `2022.02.21.` ~ `2022.03.03.` 	| [NAVER boostcamp AI Tech (3rd)](https://boostcamp.connect.or.kr/program_ai.html) 
 
 <sup>1</sup> Seoul National University Hospital
 
