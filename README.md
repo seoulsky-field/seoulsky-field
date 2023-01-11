@@ -25,7 +25,7 @@
 
 ### Research Experiences
 
-| Organizaion | Date 	| Role |
+| Organization | Date 	| Role |
 |:-----:	|:----------:	|:-----------:|
 | Department of Radiology, Seoul National University Hospital | `2022.06.` ~   | Research Intern  |
 
@@ -33,7 +33,7 @@
    
 ### Project
 
-| Title | Date  | Organizaion |
+| Title | Date  | Organization |
 |:-----:	|:----------:	|:-----------:|
 | (TBU) | `2022.12.26.`  ~  	| SNUH<sup>1</sup> iRAIL
 | (TBU) | `2022.09.14.`  ~  	| SNUH<sup>1</sup> iRAIL
@@ -62,7 +62,7 @@
 
 ### Educations (included Extracurricuar)
 
-| Date | Contents 	| Organizaion |
+| Date | Contents 	| Organization |
 |:-----:	|:----------:	|:-----------:|
 | `2022.01.` ~ `2022.06.` 	| [NAVER boostcamp AI Tech (3rd)](https://boostcamp.connect.or.kr/program_ai.html) | NAVER Connect Foundation  |
 | `2022.01.` ~ `2022.02.` 	| [NAVER boostcourse Coaching Study AI Basic (1st, leader)](https://post.naver.com/viewer/postView.naver?volumeNo=32888848&memberNo=34635212) | NAVER Connect Foundation  |
@@ -72,7 +72,7 @@
   
 ### ETC   
 
-| Date | Contents 	| Organizaion |
+| Date | Contents 	| Organization |
 |:-----:	|:----------:	|:-----------:|
 | `2022.12.01.` 	| 부스트캠프 AI Tech 5기 온라인 설명회 연사 | NAVER CONNECT  |
 | `2022.11.08.` 	| 부캠에서 살아남기 for 4기 CV 연사 | [NAVER boostcamp AI Tech (4rd)](https://boostcamp.connect.or.kr/program_ai.html)  |
