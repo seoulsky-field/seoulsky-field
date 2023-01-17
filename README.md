@@ -35,7 +35,8 @@
 
 | Title | Date  | Organization |
 |:-----:	|:----------:	|:-----------:|
-| (TBU) | `2022.12.26.`  ~  	| SNUH<sup>1</sup> iRAIL
+| (TBU) | `2023.01.17.`  ~  	| SNUH<sup>1</sup> 
+| (TBU) | `2022.12.26.`  ~  	| SNUH<sup>1</sup> 
 | CXRAIL - The Benchmark of Chest X-ray | `2022.09.14.`  ~  	| SNUH<sup>1</sup> iRAIL
 | [Copy-paste Augmentation for Nodule Detection](https://github.com/seoulsky-field/copy-paste-nodule-detection) | `2022.07.05.` ~ `2022.08.31.` 	| SNUH<sup>1</sup> iRAIL
 | [Reverse Pill Image Search](https://github.com/seoulsky-field/final-project-level3-cv-16) | `2022.04.07.` ~ `2022.06.10.` 	| [NAVER boostcamp AI Tech (3rd)](https://boostcamp.connect.or.kr/program_ai.html) 
