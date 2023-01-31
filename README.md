@@ -27,7 +27,7 @@
 
 | Organization | Date 	| Role |
 |:-----:	|:----------:	|:-----------:|
-| Department of Radiology, Seoul National University Hospital | `2022.06.09.` ~  `2023.02.28.` | Research Intern  |
+| Department of Radiology, Seoul National University Hospital | `2022.06.09.` ~  `Present` | Research Intern  |
 
 
    
@@ -35,8 +35,8 @@
 
 | Title | Date  | Organization |
 |:-----:	|:----------:	|:-----------:|
-| [(TBU)](https://github.com/seoulsky-field/Medical-DALL-E) | `2023.01.17.`  ~  	| -
-| [(TBU)](https://github.com/jieonh/CheXlocalize-Reproduce) | `2022.12.26.`  ~  	| -
+| [(TBU)](https://github.com/seoulsky-field/Medical-DALL-E) | `2023.01.17.`  ~  `Present`	| -
+| [(TBU)](https://github.com/jieonh/CheXlocalize-Reproduce) | `2022.12.26.`  ~  `Present`	| -
 | [CXRAIL - The Benchmark of Chest X-ray](https://github.com/seoulsky-field/CXRAIL-dev) | `2022.09.14.`  ~  `2023.02.28.`	| Department of Radiology, SNUH<sup>1</sup>
 | [Copy-paste Augmentation for Nodule Detection](https://github.com/seoulsky-field/copy-paste-nodule-detection) | `2022.07.05.` ~ `2022.08.31.` 	| Department of Radiology, SNUH<sup>1</sup>
 | [Reverse Pill Image Search](https://github.com/seoulsky-field/final-project-level3-cv-16) | `2022.04.07.` ~ `2022.06.10.` 	| [NAVER boostcamp AI Tech (3rd)](https://boostcamp.connect.or.kr/program_ai.html) 
