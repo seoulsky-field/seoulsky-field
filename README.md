@@ -75,7 +75,8 @@
 
 | Date | Contents 	| Organization |
 |:-----:	|:----------:	|:-----------:|
-| `2022.12.01.` 	| 부스트캠프 AI Tech 5기 온라인 설명회 연사 | NAVER CONNECT  |
+| `2023.02.01.`  ~ `2023.07.31.`	| 부스트캠프 AI Tech 수료생 커뮤니티 빌더 | NAVER Connect Foundation  |
+| `2022.12.01.` 	| 부스트캠프 AI Tech 5기 온라인 설명회 연사 | NAVER Connect Foundation  |
 | `2022.11.08.` 	| 부캠에서 살아남기 for 4기 CV 연사 | [NAVER boostcamp AI Tech (4rd)](https://boostcamp.connect.or.kr/program_ai.html)  |
 
 
