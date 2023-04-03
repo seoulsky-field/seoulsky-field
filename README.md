@@ -36,7 +36,7 @@
 
 | Title | Date  | Organization |
 |:-----:	|:----------:	|:-----------:|
-| Awesome Document Understanding with Kubernetes | `2023.04.05` ~ `Present` | (TBD)
+| Awesome Document Understanding with Kubernetes | `2023.04.05` ~ `Present` | [Hanium 2023 - Autonomous type](https://www.hanium.or.kr/portal/index.do)
 | (TBD) | `2023.03.02`  ~  `Present`	| iRAIL, SNU<sup>1</sup> & SNUH<sup>2</sup>
 | [CXRAIL - The Benchmark of Chest X-ray](https://github.com/seoulsky-field/CXRAIL-dev) | `2022.09.14`  ~  `2023.02.28`	| Department of Radiology, SNUH<sup>2</sup>
 | [Copy-paste Augmentation for Nodule Detection](https://github.com/seoulsky-field/copy-paste-nodule-detection) | `2022.07.05` ~ `2022.08.31` 	| Department of Radiology, SNUH<sup>1</sup>
