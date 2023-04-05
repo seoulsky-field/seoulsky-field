@@ -27,27 +27,35 @@
 
 | Organization | Date 	| Role |
 |:-----:	|:----------:	|:-----------:|
-| iRAIL, SNU<sup>1</sup> & SNUH<sup>2</sup> | `2023.03.01.` ~  `Present` | Researcher  |
-| Department of Radiology, Seoul National University Hospital | `2022.06.09.` ~  `2023.02.28.` | Research Intern  |
+| iRAIL, SNU<sup>1</sup> & SNUH<sup>2</sup> | `2023.03.` ~  `Present` | Researcher  |
+| Department of Radiology, Seoul National University Hospital | `2022.06.` ~  `2023.02.` | Research Intern  |
 
+  <br>
 
+### Research
+| Title | Date  | Organization |
+|:-----:	|:----------:	|:-----------:|
+| (TBD) | `2023.03.`  ~  `Present`	| iRAIL, SNU<sup>1</sup> & SNUH<sup>2</sup>
+| [CXRAIL - The Benchmark of Chest X-ray](https://github.com/seoulsky-field/CXRAIL-dev) | `2022.09.`  ~  `2023.02.`	| Department of Radiology, SNUH<sup>2</sup>
+| [Copy-paste Augmentation for Nodule Detection](https://github.com/seoulsky-field/copy-paste-nodule-detection) | `2022.07.` ~ `2022.08.` 	| Department of Radiology, SNUH<sup>1</sup>
+
+<sup>1</sup> Seoul National University  
+<sup>2</sup> Seoul National University Hospital
+
+  <br>
    
 ### Project
 
 | Title | Date  | Organization |
 |:-----:	|:----------:	|:-----------:|
-| Awesome Document Understanding with Kubernetes | `2023.04.05` ~ `Present` | [Hanium 2023 - Autonomous type](https://www.hanium.or.kr/portal/index.do)
-| (TBD) | `2023.03.02`  ~  `Present`	| iRAIL, SNU<sup>1</sup> & SNUH<sup>2</sup>
-| [CXRAIL - The Benchmark of Chest X-ray](https://github.com/seoulsky-field/CXRAIL-dev) | `2022.09.14`  ~  `2023.02.28`	| Department of Radiology, SNUH<sup>2</sup>
-| [Copy-paste Augmentation for Nodule Detection](https://github.com/seoulsky-field/copy-paste-nodule-detection) | `2022.07.05` ~ `2022.08.31` 	| Department of Radiology, SNUH<sup>1</sup>
-| [Reverse Pill Image Search](https://github.com/seoulsky-field/final-project-level3-cv-16) | `2022.04.07` ~ `2022.06.10` 	| [NAVER boostcamp AI Tech (3rd)](https://boostcamp.connect.or.kr/program_ai.html) 
-| [Semantic Segmentation for Sorting Recycling Garbage](https://github.com/seoulsky-field/level2-semantic-segmentation-level2-cv-16) | `2022.04.25` ~ `2022.05.12` 	| [NAVER boostcamp AI Tech (3rd)](https://boostcamp.connect.or.kr/program_ai.html) 
-| [Data Annotation for OCR](https://github.com/seoulsky-field/level2-data-annotation_cv-level2-cv-16) | `2022.04.14` ~ `2022.04.21` 	| [NAVER boostcamp AI Tech (3rd)](https://boostcamp.connect.or.kr/program_ai.html) 
-| [Object Detection for Sorting Recycling Garbage](https://github.com/seoulsky-field/level2-object-detection-level2-cv-16) | `2022.03.21` ~ `2022.04.07` 	| [NAVER boostcamp AI Tech (3rd)](https://boostcamp.connect.or.kr/program_ai.html) 
-| [Image Classfication of Mask Wearing Status](https://github.com/seoulsky-field/level1-image-classification-level1-cv-12) | `2022.02.21` ~ `2022.03.03` 	| [NAVER boostcamp AI Tech (3rd)](https://boostcamp.connect.or.kr/program_ai.html) 
-
-<sup>1</sup> Seoul National University
-<sup>2</sup> Seoul National University Hospital
+| Awesome Document Understanding with Kubernetes | `2023.04.` ~ `Present` | [Hanium 2023 - Autonomous type](https://www.hanium.or.kr/portal/index.do)
+| [Reverse Pill Image Search](https://github.com/seoulsky-field/final-project-level3-cv-16) | `2022.04.` ~ `2022.06.` 	| [NAVER boostcamp AI Tech (3rd)](https://boostcamp.connect.or.kr/program_ai.html) 
+| [Semantic Segmentation for Sorting Recycling Garbage](https://github.com/seoulsky-field/level2-semantic-segmentation-level2-cv-16) | `2022.04.` ~ `2022.05.` 	| [NAVER boostcamp AI Tech (3rd)](https://boostcamp.connect.or.kr/program_ai.html) 
+| [Data Annotation for OCR](https://github.com/seoulsky-field/level2-data-annotation_cv-level2-cv-16) | `2022.04.` ~ `2022.04.` 	| [NAVER boostcamp AI Tech (3rd)](https://boostcamp.connect.or.kr/program_ai.html) 
+| [Object Detection for Sorting Recycling Garbage](https://github.com/seoulsky-field/level2-object-detection-level2-cv-16) | `2022.03.` ~ `2022.04.` 	| [NAVER boostcamp AI Tech (3rd)](https://boostcamp.connect.or.kr/program_ai.html) 
+| [Image Classfication of Mask Wearing Status](https://github.com/seoulsky-field/level1-image-classification-level1-cv-12) | `2022.02.` ~ `2022.03.` 	| [NAVER boostcamp AI Tech (3rd)](https://boostcamp.connect.or.kr/program_ai.html) 
+   
+   
 
   <br>
   
@@ -71,13 +79,13 @@
 | `2022.01.` ~ `2022.02.` 	| [NAVER boostcourse Coaching Study AI Basic (1st, leader)](https://post.naver.com/viewer/postView.naver?volumeNo=32888848&memberNo=34635212) | NAVER Connect Foundation  |
 | `2021.03.` ~  	| Department of Software  | Dankook University |  
 
-  
+  <br>
   
 ### ETC   
 
 | Date | Contents 	| Organization |
 |:-----:	|:----------:	|:-----------:|
-| `2023.02.01.`  ~ `2023.07.31.`	| 부스트캠프 AI Tech 수료생 커뮤니티 빌더 | NAVER Connect Foundation  |
+| `2023.02.`  ~ `2023.07.`	| 부스트캠프 AI Tech 수료생 커뮤니티 빌더 | NAVER Connect Foundation  |
 | `2022.12.01.` 	| 부스트캠프 AI Tech 5기 온라인 설명회 연사 | NAVER Connect Foundation  |
 | `2022.11.08.` 	| 부캠에서 살아남기 for 4기 CV 연사 | [NAVER boostcamp AI Tech (4rd)](https://boostcamp.connect.or.kr/program_ai.html)  |
 
