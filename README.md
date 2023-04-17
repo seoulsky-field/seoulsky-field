@@ -48,7 +48,6 @@
 
 | Title | Date  | Organization |
 |:-----:	|:----------:	|:-----------:|
-| Awesome Document Understanding with Kubernetes | `2023.04.` ~ `Present` | [Hanium 2023 - Autonomous type](https://www.hanium.or.kr/portal/index.do)
 | [Reverse Pill Image Search](https://github.com/seoulsky-field/final-project-level3-cv-16) | `2022.04.` ~ `2022.06.` 	| [NAVER boostcamp AI Tech (3rd)](https://boostcamp.connect.or.kr/program_ai.html) 
 | [Semantic Segmentation for Sorting Recycling Garbage](https://github.com/seoulsky-field/level2-semantic-segmentation-level2-cv-16) | `2022.04.` ~ `2022.05.` 	| [NAVER boostcamp AI Tech (3rd)](https://boostcamp.connect.or.kr/program_ai.html) 
 | [Data Annotation for OCR](https://github.com/seoulsky-field/level2-data-annotation_cv-level2-cv-16) | `2022.04.` ~ `2022.04.` 	| [NAVER boostcamp AI Tech (3rd)](https://boostcamp.connect.or.kr/program_ai.html) 
