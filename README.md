@@ -61,11 +61,12 @@
 ### Competitions
 | Date | Competition 	| Team Name | Remark |
 |:-----:	|:----------:	|:-----------: |:-----------:|
-| `2022.12.` | [암 예후예측 데이터 구축 AI 경진대회 - 폐암 병리 슬라이드](https://aiconnect.kr/competition/detail/218) | MEDIAI_INTERNS | -  |
-| `2022.12.` | [MAIC CDM AI Challenge: Predicting Hypoxemia](https://maic.or.kr/competitions/21/infomation) | MEDIAI_INTERNS | Public 5위  |
-| `2022.11.` | [유방암의 임파선 전이 예측 AI경진대회](https://dacon.io/competitions/official/236011/overview/description) | 팀 CXR | 100위 / 446팀  |
-| `2022.11.` | [MAIC Sleep AI Challenge 2022 ver. 3](https://maic.or.kr/competitions/20/infomation) | MEDIAI_INTERNS | 서울대학교병원장상(3위)  |
-| `2022.11.` | [Medical Synthetic Data AI Challenge](https://github.com/seoulsky-field/Medical_Synthetic_Data_AI_Challenge) [[X-Ray]](https://urbandatathon.com/hackathon/scheduleDetail/1000)[[CT]](https://urbandatathon.com/hackathon/scheduleDetail/1001) | MEDIAI_INTERNS | 최우수상(2위)  |
+| `2023.05.` ~ `2023.10` | [Automatic Region-based Coronary Artery Disease diagnostics using x-ray angiography imagEs challenge](https://arcade.grand-challenge.org/timeline/) | IMAI | (TBD) |
+| `2022.12.` | [암 예후예측 데이터 구축 AI 경진대회 - 폐암 병리 슬라이드](https://aiconnect.kr/competition/detail/218) | MEDIAI_INTERNS | - |
+| `2022.12.` | [MAIC CDM AI Challenge: Predicting Hypoxemia](https://maic.or.kr/competitions/21/infomation) | MEDIAI_INTERNS | Public 5위 |
+| `2022.11.` | [유방암의 임파선 전이 예측 AI경진대회](https://dacon.io/competitions/official/236011/overview/description) | 팀 CXR | 100위 / 446팀 |
+| `2022.11.` | [MAIC Sleep AI Challenge 2022 ver. 3](https://maic.or.kr/competitions/20/infomation) | MEDIAI_INTERNS | 서울대학교병원장상(3위) |
+| `2022.11.` | [Medical Synthetic Data AI Challenge](https://github.com/seoulsky-field/Medical_Synthetic_Data_AI_Challenge) [[X-Ray]](https://urbandatathon.com/hackathon/scheduleDetail/1000)[[CT]](https://urbandatathon.com/hackathon/scheduleDetail/1001) | MEDIAI_INTERNS | 최우수상(2위) |
 | `2022.10.` | [제 1회 k-ium 의료인공지능경진대회](https://www.k-ium.com/home/index) | Team 양건희 | - (성실참여상) |
 
   <br>
