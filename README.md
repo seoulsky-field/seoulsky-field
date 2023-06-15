@@ -5,26 +5,10 @@
 <!-- - 🌱 Currently learning : `Deep Learning`, `Computer Vision`, `Medical Data`, `Medical AI` -->
 
 <!-- Tech Stack -->
-### Tech Stack
-<p align="left">
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/></a>&nbsp
-<!--   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/></a> &nbsp -->
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/></a> &nbsp
-<!--   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/></a> &nbsp -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/></a> &nbsp
-  <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white"/></a> &nbsp
-  <br>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/></a> &nbsp
-  <img src="https://img.shields.io/badge/WandB-FFBE00?style=flat-square&logo=weightsandbiases&logoColor=white"/></a> &nbsp
-  <br>
-  <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/></a> &nbsp
-  <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white"/></a> &nbsp
-  
   
 <br>  
 
 ### Research Experiences
-
 | Organization | Date 	| Role |
 |:-----:	|:----------:	|:-----------:|
 | iRAIL, SNU<sup>1</sup> & SNUH<sup>2</sup> | `2023.03.` ~  `Present` | Researcher  |
@@ -35,7 +19,6 @@
 ### Research
 | Title | Date  | Organization |
 |:-----:	|:----------:	|:-----------:|
-| [(TBD)](https://github.com/seoulsky-field/medical_detector_backbone_benchmark) | `2023.06.`  ~  `Present`	| iRAIL, SNU<sup>1</sup> & SNUH<sup>2</sup>
 | [(TBD)](https://github.com/seoulsky-field/bone_age_prediction) | `2023.06.`  ~  `Present`	| iRAIL, SNU<sup>1</sup> & SNUH<sup>2</sup>
 | [(TBD)](https://github.com/seoulsky-field/Synthetic-Mammography-Using-Diffusion) | `2023.03.`  ~  `Present`	| iRAIL, SNU<sup>1</sup> & SNUH<sup>2</sup>
 | [CXRAIL - The Benchmark of Chest X-ray](https://github.com/seoulsky-field/CXRAIL-dev) | `2022.09.`  ~  `2023.02.`	| Department of Radiology, SNUH<sup>2</sup>
@@ -64,16 +47,21 @@
 | Date | Competition 	| Team Name | Remark | Code |
 |:-----:	|:----------:	|:-----------: |:-----------: |:-----------:|
 | `2023.05.` ~ `2023.10` | [Automatic Region-based Coronary Artery Disease diagnostics using x-ray angiography imagEs challenge](https://arcade.grand-challenge.org/timeline/) | IMAI | (TBD) | [Github](https://github.com/seoulsky-field/ARCADE2023) | 
-| `2022.12.` | [암 예후예측 데이터 구축 AI 경진대회 - 폐암 병리 슬라이드](https://aiconnect.kr/competition/detail/218) | MEDIAI_INTERNS | - | - |
 | `2022.12.` | [MAIC CDM AI Challenge: Predicting Hypoxemia](https://maic.or.kr/competitions/21/infomation) | MEDIAI_INTERNS | Public 5위 | - |
-| `2022.11.` | [유방암의 임파선 전이 예측 AI경진대회](https://dacon.io/competitions/official/236011/overview/description) | 팀 CXR | 100위 / 446팀 | - |
 | `2022.11.` | [MAIC Sleep AI Challenge 2022 ver. 3](https://maic.or.kr/competitions/20/infomation) | MEDIAI_INTERNS | 서울대학교병원장상(3위) | [Github](https://github.com/seoulsky-field/Sleep_AI_Challenge_ver3) |
 | `2022.11.` | [Medical Synthetic Data AI Challenge](https://github.com/seoulsky-field/Medical_Synthetic_Data_AI_Challenge/blob/main/assets/poster.jpeg) [[X-Ray]](https://urbandatathon.com/hackathon/scheduleDetail/1000)[[CT]](https://urbandatathon.com/hackathon/scheduleDetail/1001) | MEDIAI_INTERNS | 최우수상(2위) | [Github](https://github.com/seoulsky-field/Medical_Synthetic_Data_AI_Challenge) |
+
+
+<!-- 
+참여하였으나 수상은 못 한 경우 (메모용도)
+| `2022.12.` | [암 예후예측 데이터 구축 AI 경진대회 - 폐암 병리 슬라이드](https://aiconnect.kr/competition/detail/218) | MEDIAI_INTERNS | - | - |
+| `2022.11.` | [유방암의 임파선 전이 예측 AI경진대회](https://dacon.io/competitions/official/236011/overview/description) | 팀 CXR | 100위 / 446팀 | - |
 | `2022.10.` | [제 1회 k-ium 의료인공지능경진대회](https://www.k-ium.com/home/index) | Team 양건희 | - (성실참여상) | - |
+-->
 
   <br>
 
-### Educations (included Extracurricuar)
+### Educations (included Extracurriculars)
 
 | Date | Contents 	| Organization |
 |:-----:	|:----------:	|:-----------:|
@@ -83,29 +71,11 @@
 
   <br>
   
-### ETC   
+### Experiences   
 
 | Date | Contents 	| Organization |
 |:-----:	|:----------:	|:-----------:|
-| `2023.02.`  ~ `2023.07.`	| 부스트캠프 AI Tech 수료생 커뮤니티 빌더 | NAVER Connect Foundation  |
+| `2023.06.`  ~ `2023.08.`	| KT 랜선야학 AI Coding Mentor | KT  |
 | `2022.12.01.` 	| 부스트캠프 AI Tech 5기 온라인 설명회 연사 | NAVER Connect Foundation  |
 | `2022.11.08.` 	| 부캠에서 살아남기 for 4기 CV 연사 | [NAVER boostcamp AI Tech (4rd)](https://boostcamp.connect.or.kr/program_ai.html)  |
 
-
-<!-- <img align='center' src="https://github-readme-stats.vercel.app/api?username=seoulsky-field" height="165"> -->
-
-
-<!--
-**seoulsky-field/seoulsky-field** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
