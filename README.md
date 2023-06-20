@@ -46,7 +46,8 @@
 ### Competitions
 | Date | Competition 	| Team Name | Remark | Code |
 |:-----:	|:----------:	|:-----------: |:-----------: |:-----------:|
-| `2023.05.` ~ `2023.10` | [Automatic Region-based Coronary Artery Disease diagnostics using x-ray angiography imagEs challenge](https://arcade.grand-challenge.org/timeline/) | IMAI | (TBD) | [Github](https://github.com/seoulsky-field/ARCADE2023) | 
+| `2023.06.` ~ `2023.07.` | [제 2회 k-ium 의료인공지능경진대회](https://github.com/seoulsky-field/detect-aneurysm-from-TFCA/blob/main/assets/competition_poster.jpg) | MEDIAI_SKY | (TBD) | [Github](https://github.com/seoulsky-field/detect-aneurysm-from-TFCA)
+| `2023.05.` ~ `2023.10.` | [Automatic Region-based Coronary Artery Disease diagnostics using x-ray angiography imagEs challenge](https://arcade.grand-challenge.org/timeline/) | IMAI | (TBD) | [Github](https://github.com/seoulsky-field/ARCADE2023) | 
 | `2022.12.` | [MAIC CDM AI Challenge: Predicting Hypoxemia](https://maic.or.kr/competitions/21/infomation) | MEDIAI_INTERNS | Public 5위 | - |
 | `2022.11.` | [MAIC Sleep AI Challenge 2022 ver. 3](https://maic.or.kr/competitions/20/infomation) | MEDIAI_INTERNS | 서울대학교병원장상(3위) | [Github](https://github.com/seoulsky-field/Sleep_AI_Challenge_ver3) |
 | `2022.11.` | [Medical Synthetic Data AI Challenge](https://github.com/seoulsky-field/Medical_Synthetic_Data_AI_Challenge/blob/main/assets/poster.jpeg) [[X-Ray]](https://urbandatathon.com/hackathon/scheduleDetail/1000)[[CT]](https://urbandatathon.com/hackathon/scheduleDetail/1001) | MEDIAI_INTERNS | 최우수상(2위) | [Github](https://github.com/seoulsky-field/Medical_Synthetic_Data_AI_Challenge) |
@@ -75,7 +76,7 @@
 
 | Date | Contents 	| Organization |
 |:-----:	|:----------:	|:-----------:|
-| `2023.06.`  ~ `2023.08.`	| KT 랜선야학 AI Coding Mentor | KT  |
+| `2023.06.`  ~ `2023.08.`	| KT 랜선야학 AI Coding Mentor &  팀장 | KT  |
 | `2022.12.01.` 	| 부스트캠프 AI Tech 5기 온라인 설명회 연사 | NAVER Connect Foundation  |
 | `2022.11.08.` 	| 부캠에서 살아남기 for 4기 CV 연사 | [NAVER boostcamp AI Tech (4rd)](https://boostcamp.connect.or.kr/program_ai.html)  |
 
