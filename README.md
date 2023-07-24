@@ -19,7 +19,6 @@
 ### Research
 | Title | Date  | Organization |
 |:-----:	|:----------:	|:-----------:|
-| [(TBD)](https://github.com/seoulsky-field/bone_age_prediction) | `2023.06.`  ~  `Present`	| iRAIL, SNU<sup>1</sup> & SNUH<sup>2</sup>
 | [Lesion In-aNd-Out Painting for Medical Image Augmentation](https://github.com/seoulsky-field/Synthetic-Mammography-Using-Diffusion) | `2023.03.`  ~  `Present`	| iRAIL, SNU<sup>1</sup> & SNUH<sup>2</sup>
 | [CXRAIL - The Benchmark of Chest X-ray](https://github.com/seoulsky-field/CXRAIL-dev) | `2022.09.`  ~  `2023.02.`	| Department of Radiology, SNUH<sup>2</sup>
 | [Copy-paste Augmentation for Nodule Detection](https://github.com/seoulsky-field/copy-paste-nodule-detection) | `2022.07.` ~ `2022.08.` 	| Department of Radiology, SNUH<sup>2</sup>
@@ -46,7 +45,6 @@
 ### Competitions
 | Date | Competition 	| Team Name | Remark | Code |
 |:-----:	|:----------:	|:-----------: |:-----------: |:-----------:|
-| `2023.06.` ~ `2023.07.` | [제 2회 k-ium 의료인공지능경진대회](https://github.com/seoulsky-field/detect-aneurysm-from-TFCA/blob/main/assets/competition_poster.jpg) | MEDIAI_SKY | (TBD) | [Github](https://github.com/seoulsky-field/detect-aneurysm-from-TFCA)
 | `2023.05.` ~ `2023.10.` | [Automatic Region-based Coronary Artery Disease diagnostics using x-ray angiography imagEs challenge](https://arcade.grand-challenge.org/timeline/) | IMAI | (TBD) | [Github](https://github.com/seoulsky-field/ARCADE2023) | 
 | `2022.12.` | [MAIC CDM AI Challenge: Predicting Hypoxemia](https://maic.or.kr/competitions/21/infomation) | MEDIAI_INTERNS | Public 5위 | - |
 | `2022.11.` | [MAIC Sleep AI Challenge 2022 ver. 3](https://maic.or.kr/competitions/20/infomation) | MEDIAI_INTERNS | 서울대학교병원장상(3위) | [Github](https://github.com/seoulsky-field/Sleep_AI_Challenge_ver3) |
