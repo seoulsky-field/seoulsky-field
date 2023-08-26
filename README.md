@@ -19,6 +19,7 @@
 ### Research
 | Title | Date  | Organization |
 |:-----:	|:----------:	|:-----------:|
+| TBD | `2023.08.`  ~  `Present`	| iRAIL, SNU<sup>1</sup> & SNUH<sup>2</sup>
 | [Lesion In-aNd-Out Painting for Medical Image Augmentation](https://github.com/seoulsky-field/Synthetic-Mammography-Using-Diffusion) | `2023.03.`  ~  `Present`	| iRAIL, SNU<sup>1</sup> & SNUH<sup>2</sup>
 | [CXRAIL - The Benchmark of Chest X-ray](https://github.com/seoulsky-field/CXRAIL-dev) | `2022.09.`  ~  `2023.02.`	| Department of Radiology, SNUH<sup>2</sup>
 | [Copy-paste Augmentation for Nodule Detection](https://github.com/seoulsky-field/copy-paste-nodule-detection) | `2022.07.` ~ `2022.08.` 	| Department of Radiology, SNUH<sup>2</sup>
