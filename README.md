@@ -9,7 +9,7 @@
 <br>  
 
 ### Research Experiences
-| Organization | Date 	| Role |
+| Organization | Date | Role |
 |:-----:	|:----------:	|:-----------:|
 | iRAIL, SNU<sup>1</sup> & SNUH<sup>2</sup> | `2023.03.` ~  `Present` | Researcher  |
 | Department of Radiology, Seoul National University Hospital | `2022.06.` ~  `2023.02.` | Research Intern  |
@@ -17,12 +17,12 @@
   <br>
 
 ### Research
-| Title | Date  | Organization |
-|:-----:	|:----------:	|:-----------:|
-| [(TBD)](https://github.com/seoulsky-field/vision-language-medical-guidance.git) | `2023.08.`  ~  `Present`	| iRAIL, SNU<sup>1</sup> & SNUH<sup>2</sup>
-| [Lesion In-aNd-Out Painting for Medical Image Augmentation](https://github.com/seoulsky-field/Synthetic-Mammography-Using-Diffusion) | `2023.03.`  ~  `Present`	| iRAIL, SNU<sup>1</sup> & SNUH<sup>2</sup>
-| [CXRAIL - The Benchmark of Chest X-ray](https://github.com/seoulsky-field/CXRAIL-dev) | `2022.09.`  ~  `2023.02.`	| Department of Radiology, SNUH<sup>2</sup>
-| [Copy-paste Augmentation for Nodule Detection](https://github.com/seoulsky-field/copy-paste-nodule-detection) | `2022.07.` ~ `2022.08.` 	| Department of Radiology, SNUH<sup>2</sup>
+| Title | Date | Organization | Etc |
+|:-----:	|:----------:	|:-----------:	|:-----------:|
+| [(TBD)](https://github.com/seoulsky-field/vision-language-medical-guidance.git) | `2023.08.`  ~  `Present`	| iRAIL, SNU<sup>1</sup> & SNUH<sup>2</sup> | -
+| [Lesion In-aNd-Out Painting for Medical Image Augmentation](https://github.com/seoulsky-field/Synthetic-Mammography-Using-Diffusion) | `2023.03.`  ~  `Present`	| iRAIL, SNU<sup>1</sup> & SNUH<sup>2</sup> | KoSAIM 2023 Oral Presentation
+| [CXRAIL - The Benchmark of Chest X-ray](https://github.com/seoulsky-field/CXRAIL-dev) | `2022.09.`  ~  `2023.02.`	| Department of Radiology, SNUH<sup>2</sup> | -
+| [Copy-paste Augmentation for Nodule Detection](https://github.com/seoulsky-field/copy-paste-nodule-detection) | `2022.07.` ~ `2022.08.` 	| Department of Radiology, SNUH<sup>2</sup> | -
 
 <sup>1</sup> Seoul National University  
 <sup>2</sup> Seoul National University Hospital
@@ -31,7 +31,7 @@
    
 ### Project
 
-| Title | Date  | Organization |
+| Title | Date | Organization |
 |:-----:	|:----------:	|:-----------:|
 | [Reverse Pill Image Search](https://github.com/seoulsky-field/final-project-level3-cv-16) | `2022.04.` ~ `2022.06.` 	| [NAVER boostcamp AI Tech (3rd)](https://boostcamp.connect.or.kr/program_ai.html) 
 | [Semantic Segmentation for Sorting Recycling Garbage](https://github.com/seoulsky-field/level2-semantic-segmentation-level2-cv-16) | `2022.04.` ~ `2022.05.` 	| [NAVER boostcamp AI Tech (3rd)](https://boostcamp.connect.or.kr/program_ai.html) 
