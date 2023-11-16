@@ -16,11 +16,18 @@
 
   <br>
 
+### Publications
+- Yisak Kim, __Kyungmin Jeon__, Soyeon Kim, Chang Min Park, 2023, [Lesion in-and-out painting for medical image augmentation](https://openreview.net/forum?id=z4BgPtgEsS), <br>_In Deep Generative Models for Health (DGM4H) at NeurIPS 2023_
+
+  <br>
+
+<!--
+
 ### Research
 | Title | Date | Organization | Etc |
 |:-----:	|:----------:	|:-----------:	|:-----------:|
-| [(TBD)](https://github.com/seoulsky-field/vision-language-medical-guidance.git) | `2023.08.`  ~  `Present`	| iRAIL, SNU<sup>1</sup> & SNUH<sup>2</sup> | -
-| [Lesion In-aNd-Out Painting for Medical Image Augmentation](https://github.com/seoulsky-field/Synthetic-Mammography-Using-Diffusion) | `2023.03.`  ~  `Present`	| iRAIL, SNU<sup>1</sup> & SNUH<sup>2</sup> | KoSAIM 2023 Oral Presentation
+| Diagnosis Please | `2023.11.`  ~  `Present`	| iRAIL, SNU<sup>1</sup> & SNUH<sup>2</sup> | -
+| [Lesion In-aNd-Out Painting for Medical Image Augmentation](https://github.com/seoulsky-field/Synthetic-Mammography-Using-Diffusion) | `2023.03.`  ~  `Present`	| iRAIL, SNU<sup>1</sup> & SNUH<sup>2</sup> | KoSAIM 2023 Oral Presentation, 
 | [CXRAIL - The Benchmark of Chest X-ray](https://github.com/seoulsky-field/CXRAIL-dev) | `2022.09.`  ~  `2023.02.`	| Department of Radiology, SNUH<sup>2</sup> | -
 | [Copy-paste Augmentation for Nodule Detection](https://github.com/seoulsky-field/copy-paste-nodule-detection) | `2022.07.` ~ `2022.08.` 	| Department of Radiology, SNUH<sup>2</sup> | -
 
@@ -28,6 +35,10 @@
 <sup>2</sup> Seoul National University Hospital
 
   <br>
+
+-->
+
+<!--
    
 ### Project
 
@@ -38,10 +49,10 @@
 | [Data Annotation for OCR](https://github.com/seoulsky-field/level2-data-annotation_cv-level2-cv-16) | `2022.04.` ~ `2022.04.` 	| [NAVER boostcamp AI Tech (3rd)](https://boostcamp.connect.or.kr/program_ai.html) 
 | [Object Detection for Sorting Recycling Garbage](https://github.com/seoulsky-field/level2-object-detection-level2-cv-16) | `2022.03.` ~ `2022.04.` 	| [NAVER boostcamp AI Tech (3rd)](https://boostcamp.connect.or.kr/program_ai.html) 
 | [Image Classfication of Mask Wearing Status](https://github.com/seoulsky-field/level1-image-classification-level1-cv-12) | `2022.02.` ~ `2022.03.` 	| [NAVER boostcamp AI Tech (3rd)](https://boostcamp.connect.or.kr/program_ai.html) 
-   
-   
 
-  <br>
+-->
+   
+   
   
 ### Competitions
 | Date | Competition 	| Team Name | Remark | Code |
@@ -58,7 +69,9 @@
 | `2022.10.` | [제 1회 k-ium 의료인공지능경진대회](https://www.k-ium.com/home/index) | Team 양건희 | - (성실참여상) | - |
 -->
 
-  <br>
+<!-- 
+
+<br>
 
 ### Educations (included Extracurriculars)
 
@@ -69,7 +82,11 @@
 | `2021.03.` ~  	| Department of Software  | Dankook University |  
 
   <br>
-  
+
+-->
+
+<!--
+
 ### Experiences   
 
 | Date | Contents 	| Organization |
@@ -78,3 +95,4 @@
 | `2022.12.01.` 	| 부스트캠프 AI Tech 5기 온라인 설명회 연사 | NAVER Connect Foundation  |
 | `2022.11.08.` 	| 부캠에서 살아남기 for 4기 CV 연사 | [NAVER boostcamp AI Tech (4rd)](https://boostcamp.connect.or.kr/program_ai.html)  |
 
+-->
