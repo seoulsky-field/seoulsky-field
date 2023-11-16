@@ -17,7 +17,7 @@
   <br>
 
 ### Publications
-- Yisak Kim, __Kyungmin Jeon__, Soyeon Kim, Chang Min Park, 2023, [Lesion in-and-out painting for medical image augmentation](https://openreview.net/forum?id=z4BgPtgEsS), <br>_In Deep Generative Models for Health (DGM4H) at NeurIPS 2023_
+- Yisak Kim, __Kyungmin Jeon__, Soyeon Kim, Chang Min Park, 2023, [Lesion in-and-out painting for medical image augmentation](https://openreview.net/forum?id=z4BgPtgEsS), <br>_In Deep Generative Models for Health (DGM4H) Workshop at NeurIPS 2023_
 
   <br>
 
