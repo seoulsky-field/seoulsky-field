@@ -14,12 +14,8 @@
 | iRAIL, SNU<sup>1</sup> & SNUH<sup>2</sup> | `2023.03.` ~  `Present` | Researcher  |
 | Department of Radiology, Seoul National University Hospital | `2022.06.` ~  `2023.02.` | Research Intern  |
 
-  <br>
-
 ### Publications
 - Yisak Kim, __Kyungmin Jeon__, Soyeon Kim, Chang Min Park, 2023, [Lesion in-and-out painting for medical image augmentation](https://openreview.net/forum?id=z4BgPtgEsS), <br>_In Deep Generative Models for Health (DGM4H) Workshop at NeurIPS 2023_
-
-  <br>
 
 <!--
 
@@ -38,19 +34,16 @@
 
 -->
 
-<!--
-   
 ### Project
 
 | Title | Date | Organization |
 |:-----:	|:----------:	|:-----------:|
+| [CXRAIL: The Benchmark of Chest X-ray](https://github.com/seoulsky-field/CXRAIL-dev) | `2022.09.` ~ `2023.02.` 	| [iRAIL](http://irail.snu.ac.kr/) 
 | [Reverse Pill Image Search](https://github.com/seoulsky-field/final-project-level3-cv-16) | `2022.04.` ~ `2022.06.` 	| [NAVER boostcamp AI Tech (3rd)](https://boostcamp.connect.or.kr/program_ai.html) 
 | [Semantic Segmentation for Sorting Recycling Garbage](https://github.com/seoulsky-field/level2-semantic-segmentation-level2-cv-16) | `2022.04.` ~ `2022.05.` 	| [NAVER boostcamp AI Tech (3rd)](https://boostcamp.connect.or.kr/program_ai.html) 
 | [Data Annotation for OCR](https://github.com/seoulsky-field/level2-data-annotation_cv-level2-cv-16) | `2022.04.` ~ `2022.04.` 	| [NAVER boostcamp AI Tech (3rd)](https://boostcamp.connect.or.kr/program_ai.html) 
 | [Object Detection for Sorting Recycling Garbage](https://github.com/seoulsky-field/level2-object-detection-level2-cv-16) | `2022.03.` ~ `2022.04.` 	| [NAVER boostcamp AI Tech (3rd)](https://boostcamp.connect.or.kr/program_ai.html) 
 | [Image Classfication of Mask Wearing Status](https://github.com/seoulsky-field/level1-image-classification-level1-cv-12) | `2022.02.` ~ `2022.03.` 	| [NAVER boostcamp AI Tech (3rd)](https://boostcamp.connect.or.kr/program_ai.html) 
-
--->
    
    
   
@@ -70,10 +63,6 @@
 | `2022.10.` | [제 1회 k-ium 의료인공지능경진대회](https://www.k-ium.com/home/index) | Team 양건희 | - (성실참여상) | - |
 -->
 
-<!-- 
-
-<br>
-
 ### Educations (included Extracurriculars)
 
 | Date | Contents 	| Organization |
@@ -82,12 +71,6 @@
 | `2022.01.` ~ `2022.02.` 	| [NAVER boostcourse Coaching Study AI Basic (1st, leader)](https://post.naver.com/viewer/postView.naver?volumeNo=32888848&memberNo=34635212) | NAVER Connect Foundation  |
 | `2021.03.` ~  	| Department of Software  | Dankook University |  
 
-  <br>
-
--->
-
-<!--
-
 ### Experiences   
 
 | Date | Contents 	| Organization |
@@ -95,5 +78,3 @@
 | `2023.06.`  ~ `2023.08.`	| KT 랜선야학 AI Coding Mentor &  팀장 | KT  |
 | `2022.12.01.` 	| 부스트캠프 AI Tech 5기 온라인 설명회 연사 | NAVER Connect Foundation  |
 | `2022.11.08.` 	| 부캠에서 살아남기 for 4기 CV 연사 | [NAVER boostcamp AI Tech (4rd)](https://boostcamp.connect.or.kr/program_ai.html)  |
-
--->
