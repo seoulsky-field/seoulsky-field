@@ -75,6 +75,7 @@
 
 | Date | Contents 	| Organization |
 |:-----:	|:----------:	|:-----------:|
+| `2024.03.` ~ `Present` | HuggingFace official document translation to Korean | [Pseudo Lab (8th)](https://pseudo-lab.com/Pseudo-Lab-c42db6652c1b45c3ba4bfe157c70cf09) |
 | `2023.06.`  ~ `2023.08.`	| KT 랜선야학 AI Coding Mentor &  팀장 | KT  |
 | `2022.12.01.` 	| 부스트캠프 AI Tech 5기 온라인 설명회 연사 | NAVER Connect Foundation  |
 | `2022.11.08.` 	| 부캠에서 살아남기 for 4기 CV 연사 | [NAVER boostcamp AI Tech (4rd)](https://boostcamp.connect.or.kr/program_ai.html)  |
