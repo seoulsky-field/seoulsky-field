@@ -7,6 +7,9 @@
 <!-- Tech Stack -->
 
 ## Publications
+### 2026
+- Hanbin Ko, __Kyungmin Jeon__, Doowoong Choi, Chang Min Park, 2026, Temporal Inversion for Learning Interval Change in Chest X-Rays, _In Computer Vision and Pattern Recognition (CVPR) 2026_
+
 ### 2025
 - __Kyungmin Jeon__, Gihun Cho, Dabin Min, Jiyoung Lee, Donguk Kim, Chang Min Park, 2024, Evaluating Medical Diagnostic Capabilities and Robustness of Large Language Models and Vision Language Models, _In Computer Vision for Automated Medical Diagnosis (CVAMD) at ICCV 2025_
 - __Kyungmin Jeon__, Gihun Cho, Dabin Min, Jiyoung Lee, Donguk Kim, Chang Min Park, 2024, [Evaluating Generative Models for Open-Ended Medical Diagnosis in Realistic Clinical Scenarios](https://sites.google.com/view/amai2025/home), _In Applications of Medical AI (AMAI) at MICCAI 2025_ __(Oral Presentation)__
