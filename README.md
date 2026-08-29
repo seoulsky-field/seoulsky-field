@@ -8,6 +8,7 @@
 
 ## Publications
 ### 2026
+- Dabin Min, __Kyungmin Jeon__, Dongheon Lee†, Chang Min Park†, 2026, Reformulating Radiology Report Error Detection as Sentence-Level Vision-Language Learning, _In Empirical Methods in Natural Language Processing (EMNLP) 2026 Findings_
 - Hanbin Ko, __Kyungmin Jeon__, Doowoong Choi, Chang Min Park, 2026, Temporal Inversion for Learning Interval Change in Chest X-Rays, _In Computer Vision and Pattern Recognition (CVPR) 2026_
 
 ### 2025
